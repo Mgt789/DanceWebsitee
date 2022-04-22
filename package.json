@@ -1,0 +1,17 @@
+{
+  "name": "dance-website",
+  "version": "1.0.0",
+  "description": "This is a website for a popular dance academy.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Meher's Brother",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.3.0",
+    "pug": "^3.0.2"
+  }
+}
